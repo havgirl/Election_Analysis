@@ -1,0 +1,41 @@
+name = "Laura"
+names = ["Laura", "Alivia", "Rebecca"]
+print(names)
+print(names[0:3])
+print(names[1:len(names)])
+print(names.index("Rebecca"))
+print(names.index("Alivia"))
+print(names.index("Laura"))
+names.pop(0)
+print(names)
+names.append("Andy")
+print(names)
+print(",".join(names))
+my_info = ["Laura", 4000, True, 20, ["Movies", "Books"]]
+# the second set of brackets below goes into the second list (Movies, Books)... Index list start with 0 so 4 buts you into the list Movies/Books and the 1 points to Books
+print(my_info[4][1])
+
+#only one of the my_info codes below (pop vs remove) can be used to run code, otherwise error will be encountered saying that it is already removed from list.
+# pop uses index #
+# remove used "value in parenthesis" 
+#my_info.pop(my_info.index(4000))
+my_info.remove(4000)
+print(my_info)
+
+my_info[1] = "Yes"
+print(my_info)
+
+static_names = [("Laura", "Alivia", "Rebecca")]
+static_names.append("Laura Lewis")
+# continue later; not finished
+
+my_info ={
+    "name":"Laura",
+    "age":4000,
+    "Happy": True,
+    "Salary": 20,
+    "Hobbies": ["Movies", "Books"]
+}
+
+print(my_info)
+print(my_info["Hobbies"])
