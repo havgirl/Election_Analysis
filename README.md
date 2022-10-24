@@ -14,7 +14,7 @@ Tasks required to complete this initiative include:
 - Data Source: [election_results.csv](Resources/election_results.csv)
 - Software: 
   - Python 3.10.8 <img src="Graphics/PythonLogo.png" width="3%" height="3%">
-  - Visual Studio Code 1.72.2 <img src="Graphics/VScode.png" width="3%" height="3%">
+  - Visual Studio Code 1.72.2 <img src="Graphics/VScode.png" width="2%" height="2%">
 - Detailed Python Code: [https://github.com/havgirl/Election_Analysis/blob/4b4dd02e7f684bd52a3d127ebc1dcd5c4b711af7/PyPoll_Challenge.py](https://github.com/havgirl/Election_Analysis/blob/4b4dd02e7f684bd52a3d127ebc1dcd5c4b711af7/PyPoll_Challenge.py)
 - Election Report:
 
