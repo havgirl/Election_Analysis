@@ -17,6 +17,7 @@ Tasks required to complete this initiative include:
   - Visual Studio Code 1.72.2 <img src="Graphics/VScode.PNG" width="3%" height="3%">
 - Detailed Python Code: [https://github.com/havgirl/Election_Analysis/blob/4b4dd02e7f684bd52a3d127ebc1dcd5c4b711af7/PyPoll_Challenge.py](https://github.com/havgirl/Election_Analysis/blob/4b4dd02e7f684bd52a3d127ebc1dcd5c4b711af7/PyPoll_Challenge.py)
 - Election Report:
+
 ![Resources/Election_txtfile_results.png](Resources/Election_txtfile_results.png)!
 
 ## Summary
