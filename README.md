@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -12,21 +12,45 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.10.8, Visual Studio Code 1.72.2
+- Detailed Analytical Python Code: PyPoll_Challenge.py
+- Election Results Summarization:
+
+![Resources/Election_txtfile_results.png](Resources/Election_txtfile_results.png)!
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were **369,711** votes cast in the election.
 - The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
-  - Candidate 1 received "x%" of the vote and "y" number of the votes.
-  - Candidate 2 received "x%" of the vote and "y" number of the votes.
-  - Candidate 3 received "x%" of the vote and "y" number of the votes.
-- The winner of the election was:
-  - Candidate XX, who received "x%" of the vote and "y" number of votes
+  - Charles Casper Stockham received **23.0%** of the vote and **85,213** votes.
+  - Diane DeGette received **73.8%** of the vote and **272,892** votes.
+  - Raymon Anthony Doane received **3.1%** of the vote and **11,606** votes.
+
+### The winner of the election was:
+   - **_Diana DeGette, who received 73.8% of the vote and 272,892 votes won the election_**
+
 
 ## Challenge Overview
+After the initial request, the election commission requested some additional data to complete the audit.  To achieve their request, the following analysis will be performed:
+
+1. Calculate the number of votes cast in each county.
+2. Get a complete list of the counties that had voters.
+3. Calculate the total number of votes each county received.
+4. Calculate the percentate of votes each county had.
+5. Determine the county with the largest turnout and percentage of voters.
 
 ## Challenge Summary
+The counties that participated were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The county results were:
+  - Jefferson had **10.5%** of the voters and **38,855** votes.
+  - Denver had **82.8%** of the voters and **306,055** votes.
+  - Arapahoe had **6.7%** of the voters and **24,801** votes.
+
+### The county with the largest turnout was:
+  - **_Denver, which had 82.8% of the voters and 306,055 votes had the largest turnout._**
