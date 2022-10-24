@@ -16,9 +16,6 @@ Tasks required to complete this initiative include:
   - Python 3.10.8 <img src="Graphics/PythonLogo.png" width="3%" height="3%">
   - Visual Studio Code 1.72.2 <img src="Graphics/VScode.png" width="2%" height="2%">
 - Detailed Python Code: [Pypoll_Challenge.py](https://github.com/havgirl/Election_Analysis/blob/6b9506d6b2a778c56a6638dfba415ab92a8c5f9d/PyPoll_Challenge.py)
-- Election Report:
-
-![Resources/Election_txtfile_results.png](Resources/Election_txtfile_results.png)!
 
 ## Summary
 The analysis of the election show that:
@@ -57,3 +54,9 @@ The counties that participated were:
 
 ### The county with the largest turnout was:
   - **_Denver, which had 82.8% of the voters and 306,055 votes had the largest turnout._**
+
+## Election Report 
+
+The final election results have been recorded and saved for future reference: [election_results.txt](https://github.com/havgirl/Election_Analysis/blob/58d99e3390b3bb63782ea83b2fc67957d33b5e28/analysis/election_results.txt)
+
+![Resources/Election_txtfile_results.png](Resources/Election_txtfile_results.png)!
