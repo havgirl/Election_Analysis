@@ -1,8 +1,9 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has been given the following tasks to complete the audit of a recent local congressional election.
 
+Tasks required to complete this initiative include:
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
@@ -10,11 +11,12 @@ A Colorado Board of Elections employee has given the following tasks to complete
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-- Data Source: election_results.csv
-- Software: Python 3.10.8, Visual Studio Code 1.72.2
-- Detailed Analytical Python Code: PyPoll_Challenge.py
-- Election Results Summarization:
-
+- Data Source: [election_results.csv](Resources/election_results.csv)
+- Software: 
+  - Python 3.10.8 <img src="Graphics/PythonLogo.PNG" width="3%" height="3%">
+  - Visual Studio Code 1.72.2 <img src="Graphics/VScode.PNG" width="3%" height="3%">
+- Detailed Python Code: [https://github.com/havgirl/Election_Analysis/blob/4b4dd02e7f684bd52a3d127ebc1dcd5c4b711af7/PyPoll_Challenge.py](https://github.com/havgirl/Election_Analysis/blob/4b4dd02e7f684bd52a3d127ebc1dcd5c4b711af7/PyPoll_Challenge.py)
+- Election Report:
 ![Resources/Election_txtfile_results.png](Resources/Election_txtfile_results.png)!
 
 ## Summary
